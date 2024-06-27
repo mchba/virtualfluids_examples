@@ -1,0 +1,4 @@
+#!/bin/sh
+rm -r output
+rm -r hor_pngs
+rm -r logs
